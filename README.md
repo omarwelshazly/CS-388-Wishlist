@@ -5,7 +5,7 @@ Submitted by: Omar Mohamed
 
 Wishlist is a wishlist app that helps the user keep track of what they want to buy.
 
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
@@ -21,6 +21,7 @@ The following **optional** features are implemented:
 - [x] User can open an item's URL by clicking on the item
 
 
+# All required features and stretch are completed
 
 ## Video Walkthrough
 
