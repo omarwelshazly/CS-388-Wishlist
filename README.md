@@ -25,7 +25,8 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-#Updated to show scrolling through the list:
+# Updated to show scrolling through the list:
+
 <img src='https://raw.githubusercontent.com/omarwelshazly/CS-388-Wishlist/main/wishlist2.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 Here's a walkthrough of implemented user stories:
